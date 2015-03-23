@@ -1,2 +1,2 @@
-# GameCore
-Game loading core for Cryptic
+# 1v1
+Player
